@@ -19,7 +19,7 @@ $ env\Scripts\activate
 Then install the dependencies:
 
 ```sh
-(env)$ pip install -r requirements.txt
+(env)$ pip install -r requirements
 ```
 
 Once `pip` has finished downloading the dependencies:
