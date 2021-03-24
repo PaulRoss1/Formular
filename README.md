@@ -2,6 +2,13 @@
 
 ## Setup
 
+The first thing to do is to clone the repository:
+
+```sh
+$ git clone https://github.com/PaulRoss1/Formular.git
+
+$ cd Formular
+```
 
 Create a virtual environment to install dependencies in and activate it:
 
